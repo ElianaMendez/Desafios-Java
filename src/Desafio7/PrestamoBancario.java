@@ -2,7 +2,7 @@ package Desafio7;
 
 import java.util.Scanner;
 
-public class prestamoBancario {
+public class PrestamoBancario {
     public static void main(String[] args) {
         Scanner prestamo = new Scanner(System.in);
         int montoMinimo = 1000;
